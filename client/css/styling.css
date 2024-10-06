@@ -1,6 +1,4 @@
-html {
-    
-}
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
 
 body {
     background-image: url("../images/space_book_club_background.jpg");
@@ -24,13 +22,13 @@ nav.tabs a {
     border: solid ;
     border-radius: 20px;
     display: inline-block;
-    font-family: sans-serif;
+    font-family: 'Merienda', sans-serif;
 
 }
 
 h1 {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Merienda', sans-serif;
     font-size: 50px;
     text-transform: uppercase;
     font-weight: lighter;
@@ -45,7 +43,7 @@ h1 {
 
 p.homepage {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Merienda', sans-serif;
     font-size: 25px;
     color:#2473BE ;
     background-color: #b2f3f8c3;
